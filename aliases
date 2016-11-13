@@ -1,2 +1,0 @@
- alias venv='source ~/envs/pybynder/bin/activate'
- alias pndr='pserve --reload ~/devel/pybynder/huib.ini'
